@@ -3,7 +3,11 @@ Módulo para exemplificar construção de projetos python do projeto pytools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
 
+testeste
+
 suportada versão 3 de python.
+
+Criado um novo pull request ...
 
 Para instalar:
 
